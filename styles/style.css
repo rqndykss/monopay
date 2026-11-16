@@ -39,6 +39,7 @@ a {
     white-space: nowrap;
     &:hover {
         transition: all 0.3s ease;
+        opacity: 0.8;
         color:#D6D3C2;
 
     }
